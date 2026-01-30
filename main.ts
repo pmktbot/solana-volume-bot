@@ -10,9 +10,8 @@ async function main() {
 	let running = true;
 
 	while (running) {
-		console.log("DM me for info");
-		console.log("https://t.me/benorizz0");
-		console.log("solana-scripts.com");
+		console.log("DM me for info: @jerrix1");
+		console.log("https://t.me/jerrix1");
 		console.log("\nMenu:");
 		console.log("1. Create Keypairs");
 		console.log("2. Distribute SOL/WSOL");

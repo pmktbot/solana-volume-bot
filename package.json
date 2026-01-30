@@ -1,12 +1,12 @@
 {
 	"name": "Solana-Volume-Bot",
 	"version": "1.0.0",
-	"description": "https://t.me/benorizz0",
-	"main": "index.js",
+	"description": "Solana volume bot for Raydium AMM - https://t.me/jerrix1",
+	"main": "main.ts",
 	"scripts": {
-		"start": "ts-node jitoPool.ts"
+		"start": "ts-node main.ts"
 	},
-	"author": "https://t.me/benorizz0",
+	"author": "https://t.me/jerrix1",
 	"license": "ISC",
 	"dependencies": {
 		"@coral-xyz/anchor": "^0.29.0",
